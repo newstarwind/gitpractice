@@ -1,2 +1,1 @@
-on master
-on putuo
+jinan
